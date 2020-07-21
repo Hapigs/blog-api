@@ -28,7 +28,7 @@
     "@types/mongoose": "^5.5.39",
     "class-transformer": "^0.2.3",
     "class-validator": "^0.11.0",
-    "mongoose": "^4.13.20",
+    "mongoose": "^5.7.5",
     "reflect-metadata": "^0.1.13",
     "rimraf": "^3.0.0",
     "rxjs": "^6.5.3",
